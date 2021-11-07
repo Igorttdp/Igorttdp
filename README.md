@@ -6,7 +6,7 @@ Obviously i'm interested in Web Development and i'm too exited to start and show
 - 📫 How to reach me ? My contact informations are below 👇
 - Email: Igortorresdepaes1@gmail.com
 - Instagram: <a href='https://www.instagram.com/igor_ttdp/' target="_blank">igor_ttdp</a>
-- Twitter: <a href='https://twitter.com/igor_ttdp' target='_blank>igor_ttdp</a>
+- Twitter: <a href='https://twitter.com/igor_ttdp' target='_blank'>igor_ttdp</a>
 
 <!---
 Igorttdp/Igorttdp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
