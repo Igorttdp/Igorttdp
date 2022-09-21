@@ -1,6 +1,6 @@
 ## Hey, I'm Igor. Glad to see you here!
 
-- 📘 Studying JavaScript.
+- 📘 Studying React.
 - 📚 Day by day acquiring more knowledge.
 - 📫 Contact-me on email: igorttdp.dev@gmail.com
 
