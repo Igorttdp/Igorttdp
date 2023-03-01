@@ -1,6 +1,6 @@
 ## Hey, I'm Igor. Glad to see you here!
 
-- 📘 Studying React.
+- 📘 Studying React && Python and Django.
 - 📚 Day by day acquiring more knowledge.
 - 📫 Contact-me on email: igorttdp.dev@gmail.com
 
