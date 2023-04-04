@@ -1,6 +1,6 @@
 ## Hey, I'm Igor. Glad to see you here!
 
-- 📘 Studying React && Python and Django.
+- 📘 Studying Next && Nest.
 - 📚 Day by day acquiring more knowledge.
 - 📫 Contact-me on email: igorttdp.dev@gmail.com
 
@@ -10,14 +10,16 @@
 </div>
 
 <br>
-<div style="display:inline-block;">
-    <img alt="Igor-React" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" />
-  <img alt="Igor-TypeScript" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" />
-  <img alt="Igor-JS" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="Igor-HTML" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="Igor-CSS" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" />
-</div>
-<hr>
+<h3 align="left">Languages and Tools:</h3>
+
+<div style="display: inline_block">
+  <h4>Frontend</h4>
+<br/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,styledcomponents,figma,vercel" />
+  <h4>Backend</h4>
+<br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,jest,python,django,postgres,nestjs,git,bash,docker" />
+</div><br/>
 
 <div> 
   <a href="https://www.instagram.com/igor_ttdp/" target="blank_"><img alt="instagram-Igor" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
