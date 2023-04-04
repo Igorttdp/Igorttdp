@@ -15,13 +15,13 @@
 <div style="display: inline_block">
   <h4>Frontend</h4>
 <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,styledcomponents,figma,vercel" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,styledcomponents" />
   <h4>Backend</h4>
 <br/>
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,jest,python,django,postgres" />
   <h4>Tools</h4>
 <br/>
-    <img src="https://skillicons.dev/icons?i=git,bash,docker" />
+    <img src="https://skillicons.dev/icons?i=git,bash,docker,vercel,figma" />
 </div><br/>
 
 <div> 
