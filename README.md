@@ -5,8 +5,8 @@
 - 📫 Contact-me on email: igorttdp.dev@gmail.com
 
 <div>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Igorttdp&show_icons=true&theme=tokyonight" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorttdp&theme=tokyonight" />
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Igorttdp&show_icons=true&theme=tokyonight" />
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorttdp&theme=tokyonight" />
 </div>
 
 <br>
