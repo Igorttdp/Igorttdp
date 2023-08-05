@@ -18,10 +18,10 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery,react,nextjs,styledcomponents,net" />
   <h4>Backend</h4>
 <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,jest,python,django,postgres,cs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,nestjs,jest,python,django,postgres,cs" />
   <h4>Tools</h4>
 <br/>
-    <img src="https://skillicons.dev/icons?i=git,bash,docker,vercel,figma" />
+    <img src="https://skillicons.dev/icons?i=git,bash,docker,vercel,figma,ps" />
 </div><br/>
 
 <div> 
