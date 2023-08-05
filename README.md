@@ -15,7 +15,7 @@
 <div style="display: inline_block">
   <h4>Frontend</h4>
 <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,styledcomponents,net" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery,react,nextjs,styledcomponents,net" />
   <h4>Backend</h4>
 <br/>
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,jest,python,django,postgres,cs" />
